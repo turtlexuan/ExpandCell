@@ -12,6 +12,7 @@
 		0418B0361D9CC83B00C87A40 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0418B0341D9CC83B00C87A40 /* Main.storyboard */; };
 		0418B0381D9CC83B00C87A40 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0418B0371D9CC83B00C87A40 /* Assets.xcassets */; };
 		0418B03B1D9CC83B00C87A40 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0418B0391D9CC83B00C87A40 /* LaunchScreen.storyboard */; };
+		0418B0431D9CC95400C87A40 /* TableViewHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0418B0421D9CC95400C87A40 /* TableViewHeader.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0418B0371D9CC83B00C87A40 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0418B03A1D9CC83B00C87A40 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0418B03C1D9CC83B00C87A40 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0418B0421D9CC95400C87A40 /* TableViewHeader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewHeader.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				0418B0371D9CC83B00C87A40 /* Assets.xcassets */,
 				0418B0391D9CC83B00C87A40 /* LaunchScreen.storyboard */,
 				0418B03C1D9CC83B00C87A40 /* Info.plist */,
+				0418B0421D9CC95400C87A40 /* TableViewHeader.swift */,
 			);
 			path = ExpandCell;
 			sourceTree = "<group>";
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0418B0431D9CC95400C87A40 /* TableViewHeader.swift in Sources */,
 				0418B0331D9CC83B00C87A40 /* ViewController.swift in Sources */,
 				0418B0311D9CC83B00C87A40 /* AppDelegate.swift in Sources */,
 			);
