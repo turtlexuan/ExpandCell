@@ -1,3 +1,3 @@
 # ExpandCell
 
-An example project of expandable tableview cell
+An example project of expandable tableview cell.
